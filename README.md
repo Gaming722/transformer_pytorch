@@ -8,6 +8,8 @@ A detailed implementation description is provided in the post below.
 
 #### Install
 ```bash
+conda create -n attention python=3.8
+conda activate attention
 bash prepare.sh
 ```
 
